@@ -9,7 +9,7 @@ Directory Structure:
 |-------|---|song_list.xlsx 
 <br><br>
 === GUI ===<br>
-![alt txt](/img/gui.png)
+![random_program](/img/gui.png)
 <br><br>
 === HOW TO USE === <br>
 1.Set songs in an excel file (path: src/song_list.xlsx) <br>
